@@ -1,0 +1,41 @@
+region,city,state,popsize,pop_est,white_nonhi,black,asian,hisp_lat,hc_demo
+southwest,Albuquerque,New Mexico,"500k-999,999",560513,0.39,0.033,0.029,0.492,25.0
+southeast,Atlanta,Georgia,"500k-999,999",506811,0.38,0.51,0.044,0.043,
+southwest,Austin,Texas,"500k-999,999",978908,0.48,0.078,0.076,0.339,5.0
+northeast,Baltimore,Maryland,"500k-999,999",593490,0.28,0.624,0.026,0.053,
+northeast,Boston,Massachusetts,"500k-999,999",692600,0.45,0.252,0.097,0.198,113.0
+southeast,Charlotte,North Carolina,"500k-999,999",885708,0.42,0.352,0.065,0.143,
+midwest,Chicago,Illinois,1M+,2693976,0.33,0.296,0.066,0.288,18.0
+west,Colorado Springs,Colorado,<500k,478221,0.69,0.065,0.029,0.176,6.0
+midwest,Columbus,Ohio,"500k-999,999",898553,0.55,0.29,0.058,0.062,35.0
+southwest,Dallas,Texas,1M+,1343573,0.29,0.243,0.034,0.418,13.0
+west,Denver,Colorado,"500k-999,999",727211,0.54,0.092,0.037,0.299,40.0
+midwest,Detroit,Michigan,"500k-999,999",670031,0.11,0.783,0.017,0.077,30.0
+southwest,El Paso,Texas,"500k-999,999",681728,0.13,0.036,0.014,0.814,3.0
+southwest,Fort Worth,Texas,"500k-999,999",909585,0.39,0.189,0.046,0.351,8.0
+west,Fresno,California,"500k-999,999",531576,0.27,0.074,0.138,0.496,
+southwest,Houston,Texas,1M+,2320268,0.24,0.226,0.068,0.45,13.0
+midwest,Indianapolis,Indiana,"500k-999,999",876384,0.55,0.286,0.034,0.105,13.0
+southeast,Jacksonville,Florida,"500k-999,999",911507,0.51,0.31,0.048,0.1,4.0
+midwest,Kansas City,Missouri,<500k,497159,0.38,0.233,0.049,0.304,25.0
+west,Las Vegas,Nevada,"500k-999,999",651319,0.44,0.122,0.069,0.331,17.0
+west,Los Angeles,California,1M+,3979576,0.29,0.089,0.116,0.485,118.0
+southeast,Louisville,Kentucky,"500k-999,999",617638,0.66,0.236,0.027,0.056,4.0
+southeast,Memphis,Tennessee,"500k-999,999",651073,0.26,0.641,0.017,0.072,4.0
+southwest,Mesa,Arizona,"500k-999,999",518012,0.61,0.042,0.022,0.277,2.0
+midwest,Milwaukee,Wisconsin,"500k-999,999",590157,0.35,0.387,0.043,0.19,2.0
+southeast,Nashville,Tennessee,"500k-999,999",670820,0.55,0.276,0.037,0.105,3.0
+northeast,New York City,New York,1M+,8336817,0.32,0.243,0.141,0.291,90.0
+southwest,Oklahoma City,Oklahoma,"500k-999,999",655057,0.54,0.143,0.045,0.197,3.0
+midwest,Omaha,Nebraska,<500k,478192,0.67,0.123,0.038,0.139,0.0
+northeast,Philadelphia,Pennsylvania,1M+,1584064,0.35,0.421,0.072,0.147,7.0
+west,Phoenix,Arizona,1M+,1680992,0.43,0.071,0.038,0.426,111.0
+west,Portland,Oregon,"500k-999,999",654741,0.71,0.058,0.082,0.097,23.0
+west,Sacramento,California,"500k-999,999",513624,0.32,0.132,0.189,0.289,1.0
+southwest,San Antonio,Texas,1M+,1547253,0.25,0.07,0.028,0.642,5.0
+west,San Diego,California,1M+,1423851,0.43,0.064,0.167,0.303,8.0
+west,San Francisco,California,"500k-999,999",881549,0.41,0.052,0.344,0.152,35.0
+west,San Jose,California,1M+,1021795,0.26,0.03,0.359,0.316,13.0
+west,Seattle,Washington,"500k-999,999",753675,0.64,0.073,0.154,0.067,178.0
+southwest,Tucson,Arizona,"500k-999,999",548073,0.44,0.052,0.032,0.436,6.0
+northeast,Washington,District of Columbia,"500k-999,999",705749,0.37,0.463,0.04,0.11,107.0

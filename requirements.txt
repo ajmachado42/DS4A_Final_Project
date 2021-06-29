@@ -1,0 +1,11 @@
+
+python3
+pandas
+matplotlib
+plotly
+seaborn
+numpy
+node
+npm
+json
+requests
